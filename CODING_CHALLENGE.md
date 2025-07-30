@@ -4,6 +4,8 @@
 
 Build a modern, interactive web application that allows users to upload images and generate optimized crops for various social media platforms using AI-powered suggestions.
 
+![Just keep smiling](./Screenshot.png)
+
 ## Challenge Description
 
 Create a Vue.js application that demonstrates your skills in:
@@ -65,22 +67,9 @@ Create a Vue.js application that demonstrates your skills in:
 - **Composition API**: Use `<script setup>` syntax with advanced composables
 - **🔥 VUE CHALLENGE**: Create custom `useImageProcessor` composable with reactive transforms
 
-### Advanced Vue.js Requirements
-
-- **Reactivity Transform**: Use `$ref` and `$computed` (experimental)
-- **Custom Refs**: Implement `customRef` for debounced inputs
-- **Watch Effects**: Use `watchEffect` for side effects and cleanup
-- **Dynamic Components**: Runtime component switching with `<component :is>`
-- **Slots & Scoped Slots**: Advanced slot patterns with fallbacks
-- **🔥 VUE CHALLENGE**: Implement render functions for complex UI logic
-- **🔥 VUE CHALLENGE**: Create HOC (Higher-Order Components) pattern
-- **🔥 VUE CHALLENGE**: Build custom plugin with global properties
-- **🔥 VUE CHALLENGE**: Implement micro-frontend with Vue 3 app mounting
-
 ### Technical Improvements
 
 - **TypeScript Integration**: Type safety throughout the application
-- **🔥 CHALLENGE**: Implement virtual scrolling for large image galleries (1000+ images)
 
 ## Time Allocation
 
@@ -98,7 +87,7 @@ Create a Vue.js application that demonstrates your skills in:
 
 1. **Source Code**: Complete Vue.js application
 2. **README.md**: Setup instructions and feature documentation
-3. **Live Demo**: Deployed application (Netlify, Vercel, etc.)
+3. **Live Demo**: Deployed application (Netlify, Vercel, etc.) (Optional)
 4. **Code Walkthrough**: Brief explanation of key architectural decisions
 
 ### Documentation Should Include
