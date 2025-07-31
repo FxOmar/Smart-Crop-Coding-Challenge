@@ -128,12 +128,4 @@ npm run dev
 - [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
 - [Smart Crop Operations - Uploadcare](https://uploadcare.com/docs/transformations/image/resize-crop/#operation-smart-crop)
 
-### Design Inspiration
-
-- Modern SaaS applications
-- Creative tools (Figma, Canva)
-- Image editing software interfaces
-
----
-
 **Good luck! We're excited to see your creative and technical approach to this challenge.**
